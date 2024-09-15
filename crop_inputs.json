@@ -1,0 +1,23 @@
+{
+  "Soybean": {
+    "Fertilizer_NPK": {"name": "NPK", "unit": "kg/ha"},
+    "Herbicide_Glyphosate": {"name": "Glyphosate", "unit": "L/ha"},
+    "Insecticide_Pyrethroids": {"name": "Pyrethroids", "unit": "L/ha"},
+    "Fungicide_Triazole": {"name": "Triazole", "unit": "L/ha"},
+    "Micronutrients_Boron": {"name": "Boron", "unit": "kg/ha"}
+  },
+  "Corn": {
+    "Fertilizer_NPK": {"name": "NPK", "unit": "kg/ha"},
+    "Herbicide_Atrazine": {"name": "Atrazine", "unit": "L/ha"},
+    "Insecticide_Chlorpyrifos": {"name": "Chlorpyrifos", "unit": "L/ha"},
+    "Fungicide_Strobilurin": {"name": "Strobilurin", "unit": "L/ha"},
+    "Micronutrients_Zinc": {"name": "Zinc", "unit": "kg/ha"}
+  },
+  "Cotton": {
+    "Fertilizer_NPK": {"name": "NPK", "unit": "kg/ha"},
+    "Herbicide_Trifluralin": {"name": "Trifluralin", "unit": "L/ha"},
+    "Insecticide_Imidacloprid": {"name": "Imidacloprid", "unit": "L/ha"},
+    "Growth_Regulator_Mepiquat": {"name": "Mepiquat Chloride", "unit": "L/ha"},
+    "Defoliant_Thidiazuron": {"name": "Thidiazuron", "unit": "L/ha"}
+  }
+}
